@@ -1,4 +1,4 @@
-ADAS code CAMERA STOP
+#ADAS code CAMERA STOP
 
 from picamera2 import Picamera2
 import cv2

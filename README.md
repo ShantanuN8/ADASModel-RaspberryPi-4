@@ -1,4 +1,4 @@
-# 🚗 Raspberry Pi ADAS Robot Car (CODE 1–4)
+# 🚗 Raspberry Pi ADAS Robot Car
 
 This project implements an **Advanced Driver Assistance System (ADAS)** using Raspberry Pi, ultrasonic sensors, and a camera. It mimics smart automotive features like obstacle detection, lane changes, adaptive cruise control, and traffic light responses.
 
@@ -8,10 +8,10 @@ This project implements an **Advanced Driver Assistance System (ADAS)** using Ra
 
 | Code   | Feature                           | Description                                                              |
 |--------|-----------------------------------|--------------------------------------------------------------------------|
-| CODE 1 | Smart Lane Change Detection       | Scans left/right using ultrasonic sensors and changes lane accordingly. |
-| CODE 2 | Adaptive Cruise Control (ACC)     | Adjusts car speed based on object distance using ultrasonic sensor.     |
-| CODE 3 | Traffic Light Recognition         | Uses camera to detect red/green lights and decides stop/go.             |
-| CODE 4 | Lane Width / Side Safety Detection| Stops the car if the lane is too narrow using side ultrasonic sensors.  |
+| 1 | Smart Lane Change Detection       | Scans left/right using ultrasonic sensors and changes lane accordingly. |
+| 2 | Adaptive Cruise Control (ACC)     | Adjusts car speed based on object distance using ultrasonic sensor.     |
+| 3 | Traffic Light Recognition         | Uses camera to detect red/green lights and decides stop/go.             |
+| 4 | Lane Width / Side Safety Detection| Stops the car if the lane is too narrow using side ultrasonic sensors.  |
 
 ---
 
